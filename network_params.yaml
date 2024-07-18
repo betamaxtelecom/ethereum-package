@@ -1,10 +1,10 @@
 participants:
   - el_type: geth
     cl_type: lighthouse
-    count: 2
+    count: 4
   - el_type: geth
     cl_type: teku
 network_params:
-  network_id: "585858"
+  network_id: "1"
 additional_services:
   - dora
